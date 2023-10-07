@@ -1,2 +1,2 @@
 # hangman_game
-It is an in process hangman game, with OOP, CF, regex, input validation.
+It is an in progress hangman game, with OOP, CF, regex, input validation.
